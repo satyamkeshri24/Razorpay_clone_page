@@ -12,7 +12,7 @@ This project is a clone of the Razorpay website, developed as part of a [web dev
 
 ## Getting Started
 
-To view the [Razorpay clone](https://www.razorpay.com/) locally, follow these steps:
+To view the [Razorpay clone](https://paywithrazor.netlify.app) locally, follow these steps:
 
 1. Clone the repository:
 
