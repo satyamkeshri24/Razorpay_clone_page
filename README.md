@@ -1,7 +1,7 @@
 # Razorpay_clone_page
 # Razorpay Clone
 
-This project is a clone of the Razorpay website, developed as part of a [web development bootcamp](https://github.com/satyamkeshri24/Razorpay_clone_page/)). It showcases the user interface and design of the Razorpay payment gateway using HTML and Tailwind CSS.
+This project is a clone of the Razorpay website, developed as part of a [web development bootcamp](https://github.com/satyamkeshri24/Razorpay_clone_page.git)). It showcases the user interface and design of the Razorpay payment gateway using HTML and Tailwind CSS.
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a clone of the Razorpay website, developed as part of a [web dev
 
 ## Getting Started
 
-To view the [Razorpay clone]([https://paywithrazor.netlify.app/#/)] locally, follow these steps:
+To view the [Razorpay clone]([https://paywithrazor.netlify.app/#)] locally, follow these steps:
 
 1. Clone the repository:
 
@@ -53,7 +53,7 @@ For more information about Razorpay and to learn more about their payment gatewa
 
 ## Contributions
 
-This project was solely developed during a [web development bootcamp](https://github.com/satyamkeshri24/Razorpay_clone_page/) to practice HTML and CSS skills. Contributions are not expected as this project serves as a learning exercise. However, if you have any suggestions or improvements, feel free to share them and open a pull request.
+This project was solely developed during a [web development bootcamp](https://github.com/satyamkeshri24/Razorpay_clone_page.git) to practice HTML and CSS skills. Contributions are not expected as this project serves as a learning exercise. However, if you have any suggestions or improvements, feel free to share them and open a pull request.
 
 ## modify
 
